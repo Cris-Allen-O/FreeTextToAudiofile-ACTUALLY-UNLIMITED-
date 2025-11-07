@@ -1,0 +1,4 @@
+- Made using python (I forgot the other components actually)
+- This is kinda lag 
+- I made this as a practice project with the help of chatgpt
+- if you paste a lot of text it will take a while so just let it finish it is not broken don't worry it's just slow lol
