@@ -3,3 +3,5 @@
 - I made this as a practice project with the help of chatgpt
 - if you paste a lot of text it will take a while so just let it finish it is not broken don't worry it's just slow lol
 - The output/mp3 file is located on the folder of the exe and the README, or to put it simply it's basically in the same directory as the "TextToAudioFree" exe file.
+- If you will choose "Generate without internet" (aka the offline version) the file name will be "output", and if you will choose "Generate with internet" (aka the online version that needs inernet) the file name will be "audio".
+- Generating another audio using the same method (online and then online again or offline and offline again) will replace the old file, for example I generated an audio of one sentence using the online method and then generate another sentence or let's say this time just one word, the old file will be replaced (the old file with the sentence audio will be replaced by the new file or in our example one word). So just move the existing audio file in another folder or directory.
