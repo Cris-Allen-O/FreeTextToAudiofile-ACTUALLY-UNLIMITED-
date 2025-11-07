@@ -2,3 +2,4 @@
 - This is kinda lag 
 - I made this as a practice project with the help of chatgpt
 - if you paste a lot of text it will take a while so just let it finish it is not broken don't worry it's just slow lol
+- The output/mp3 file is located on the folder of the exe and the README, or to put it simply it's basically in the same directory as the "TextToAudioFree" exe file.
